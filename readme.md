@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzakwannashif&label=Profile%20views&color=0e75b6&style=flat" alt="dzakwannashif" /> </p>
 
+
+
+<h1>HAHAHHAHHAHAHAHH AKU ADALAH HECKER</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzakwannashif" alt="dzakwannashif" /></a> </p>
 
 - 🎓 I’m currently studying on [SMK IDN Boarding School Jonggol (2021-2024).](https://idn.sch.id/)
