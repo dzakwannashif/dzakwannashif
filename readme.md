@@ -25,6 +25,8 @@
 
 - 👋🏻 About Me **Hello Once Again, I'm Dzakwan And my hobbies are having fun like Watching, Walking Around, Gaming, Adventure, etc that makes you fell fresh and fun, and i'm now 166cm or taller(i think). so that's all for now if you want to get more info just chat me in my social media. see ya!**
 
+[![@dzakwannashif's Holopin board](https://holopin.io/api/user/board?user=dzakwannashif)](https://holopin.io/@dzakwannashif)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
